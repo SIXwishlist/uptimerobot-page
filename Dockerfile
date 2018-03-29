@@ -1,4 +1,4 @@
-FROM node:8.9-alpine@sha256:a596dc41b88be39ed80172915ad3425ed7f7169ff57cd0e7e48793664d4bf616
+FROM node:8.11-alpine@sha256:8af2ad09cdf0cc443ce076971e0c5b593c0fc7250d1fca3afe67fc7a8ff08a21
 
 ENV NODE_ENV=production
 
